@@ -1,3 +1,3 @@
 document.getElementById('mainButton').addEventListener('click', function() {
-    alert('Button clicked!');
+    alert('вы нарушили закон! за вами едут 🧑‍🌾👮👮 ');
 });
