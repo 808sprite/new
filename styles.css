@@ -31,7 +31,7 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     font-family: roboto;
-    color: rgba(102, 255, 43, 0.8);
+    font-color: rgba(102, 255, 43, 0.8);
     background: #444;
     border: 1px solid #333;
     border-radius: 5px;
